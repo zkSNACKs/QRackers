@@ -7,12 +7,12 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-using FlashCap.Internal;
+using NQRackers.Capturing.Internal;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace FlashCap.Devices;
+namespace NQRackers.Capturing.Devices;
 
 public sealed class VideoForWindowsDevices : CaptureDevices
 {

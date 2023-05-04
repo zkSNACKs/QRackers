@@ -7,15 +7,15 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-using FlashCap.FrameProcessors;
-using FlashCap.Internal;
+using NQRackers.Capturing.FrameProcessors;
+using NQRackers.Capturing.Internal;
 using System;
 using System.Diagnostics;
 using System.Runtime.CompilerServices;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace FlashCap;
+namespace NQRackers.Capturing;
 
 public enum DeviceTypes
 {

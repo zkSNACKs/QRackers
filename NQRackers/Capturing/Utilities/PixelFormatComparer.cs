@@ -9,7 +9,7 @@
 
 using System.Collections.Generic;
 
-namespace FlashCap.Utilities;
+namespace NQRackers.Capturing.Utilities;
 
 public sealed class PixelFormatComparer : IComparer<PixelFormats>
 {

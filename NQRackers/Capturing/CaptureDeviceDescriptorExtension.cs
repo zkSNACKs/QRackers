@@ -7,12 +7,12 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-using FlashCap.FrameProcessors;
+using NQRackers.Capturing.FrameProcessors;
 using System;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace FlashCap;
+namespace NQRackers.Capturing;
 
 public static class CaptureDeviceDescriptorExtension
 {

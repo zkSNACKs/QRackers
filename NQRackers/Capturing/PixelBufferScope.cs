@@ -9,7 +9,7 @@
 
 using System.Runtime.CompilerServices;
 
-namespace FlashCap;
+namespace NQRackers.Capturing;
 
 public abstract class PixelBufferScope
 {

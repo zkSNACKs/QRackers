@@ -7,12 +7,12 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-using FlashCap.Internal;
+using NQRackers.Capturing.Internal;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace FlashCap.Devices;
+namespace NQRackers.Capturing.Devices;
 
 public sealed class DirectShowDevices : CaptureDevices
 {

@@ -14,7 +14,7 @@ using System.Text;
 
 #pragma warning disable CS0649
 
-namespace FlashCap.Internal;
+namespace NQRackers.Capturing.Internal;
 
 [SuppressUnmanagedCodeSecurity]
 internal static class NativeMethods_VideoForWindows

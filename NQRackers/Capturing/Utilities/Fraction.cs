@@ -10,7 +10,7 @@
 using System;
 using System.Diagnostics;
 
-namespace FlashCap.Utilities;
+namespace NQRackers.Capturing.Utilities;
 
 /// <summary>
 /// Fraction number structure.

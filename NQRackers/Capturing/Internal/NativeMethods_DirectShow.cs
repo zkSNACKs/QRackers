@@ -12,9 +12,9 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 using System.Security;
-using FlashCap.Utilities;
+using NQRackers.Capturing.Utilities;
 
-namespace FlashCap.Internal;
+namespace NQRackers.Capturing.Internal;
 
 [SuppressUnmanagedCodeSecurity]
 internal static class NativeMethods_DirectShow

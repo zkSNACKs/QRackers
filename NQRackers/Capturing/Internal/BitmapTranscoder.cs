@@ -11,7 +11,7 @@ using System;
 using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 
-namespace FlashCap.Internal;
+namespace NQRackers.Capturing.Internal;
 
 internal static class BitmapTranscoder
 {

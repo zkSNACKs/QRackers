@@ -5,7 +5,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-namespace FlashCap.Internal.V4L2
+namespace NQRackers.Capturing.Internal.V4L2
 {
     internal sealed class NativeMethods_V4L2_Interop_aarch64 : NativeMethods_V4L2_Interop
     {

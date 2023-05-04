@@ -14,7 +14,7 @@ using System.Runtime.CompilerServices;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace FlashCap.Internal;
+namespace NQRackers.Capturing.Internal;
 
 internal sealed class AsyncLock
 {

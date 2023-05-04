@@ -13,7 +13,7 @@ using System.Diagnostics;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace FlashCap.FrameProcessors;
+namespace NQRackers.Capturing.FrameProcessors;
 
 internal abstract class QueuingProcessor :
     FrameProcessor

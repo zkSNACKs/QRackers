@@ -10,7 +10,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace FlashCap;
+namespace NQRackers.Capturing;
 
 public static class CaptureDevicesExtension
 {

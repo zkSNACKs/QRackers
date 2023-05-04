@@ -9,7 +9,7 @@
 
 using System.Diagnostics;
 
-namespace FlashCap.Internal;
+namespace NQRackers.Capturing.Internal;
 
 internal sealed class TimestampCounter
 {

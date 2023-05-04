@@ -7,14 +7,14 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-using FlashCap.Devices;
-using FlashCap.Internal;
+using NQRackers.Capturing.Devices;
+using NQRackers.Capturing.Internal;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.CompilerServices;
 
-namespace FlashCap;
+namespace NQRackers.Capturing;
 
 public class CaptureDevices
 {

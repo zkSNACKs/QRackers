@@ -7,7 +7,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-using FlashCap.Internal;
+using NQRackers.Capturing.Internal;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Runtime.CompilerServices;

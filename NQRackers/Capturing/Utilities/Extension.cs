@@ -10,7 +10,7 @@
 using System;
 using System.IO;
 
-namespace FlashCap.Utilities;
+namespace NQRackers.Capturing.Utilities;
 
 public static class Extension
 {

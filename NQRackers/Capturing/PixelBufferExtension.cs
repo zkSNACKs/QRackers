@@ -11,7 +11,7 @@ using System;
 using System.Diagnostics;
 using System.Runtime.CompilerServices;
 
-namespace FlashCap;
+namespace NQRackers.Capturing;
 
 public static class PixelBufferExtension
 {

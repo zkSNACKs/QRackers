@@ -7,7 +7,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-using FlashCap.Internal;
+using NQRackers.Capturing.Internal;
 using System;
 using System.Diagnostics;
 using System.Linq;
@@ -16,7 +16,7 @@ using System.Runtime.InteropServices;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace FlashCap.Devices;
+namespace NQRackers.Capturing.Devices;
 
 public sealed class DirectShowDevice :
     CaptureDevice

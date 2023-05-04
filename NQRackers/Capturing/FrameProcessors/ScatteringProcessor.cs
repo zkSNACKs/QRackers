@@ -7,13 +7,13 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-using FlashCap.Internal;
+using NQRackers.Capturing.Internal;
 using System;
 using System.Diagnostics;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace FlashCap.FrameProcessors;
+namespace NQRackers.Capturing.FrameProcessors;
 
 internal abstract class ScatteringProcessor :
     FrameProcessor

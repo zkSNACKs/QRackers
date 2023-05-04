@@ -7,7 +7,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-using FlashCap.Internal;
+using NQRackers.Capturing.Internal;
 using System;
 using System.Diagnostics;
 using System.Runtime.CompilerServices;
@@ -15,7 +15,7 @@ using System.Runtime.InteropServices;
 using System.Threading.Tasks;
 using System.Threading;
 
-namespace FlashCap.Devices;
+namespace NQRackers.Capturing.Devices;
 
 public sealed class VideoForWindowsDevice : CaptureDevice
 {

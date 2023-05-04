@@ -17,7 +17,7 @@ using System.Runtime.InteropServices;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace FlashCap.Internal;
+namespace NQRackers.Capturing.Internal;
 
 internal sealed class IndependentSingleApartmentContext :
     SynchronizationContext, IDisposable

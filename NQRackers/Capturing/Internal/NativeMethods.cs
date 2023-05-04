@@ -14,9 +14,9 @@ using System.IO;
 using System.Runtime.InteropServices;
 using System.Security;
 using System.Text;
-using FlashCap.Utilities;
+using NQRackers.Capturing.Utilities;
 
-namespace FlashCap.Internal;
+namespace NQRackers.Capturing.Internal;
 
 [SuppressUnmanagedCodeSecurity]
 internal static class NativeMethods

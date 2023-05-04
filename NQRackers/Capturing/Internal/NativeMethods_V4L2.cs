@@ -11,12 +11,12 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
-using FlashCap.Internal.V4L2;
-using FlashCap.Utilities;
+using NQRackers.Capturing.Internal.V4L2;
+using NQRackers.Capturing.Utilities;
 
-using static FlashCap.Internal.V4L2.NativeMethods_V4L2_Interop;
+using static NQRackers.Capturing.Internal.V4L2.NativeMethods_V4L2_Interop;
 
-namespace FlashCap.Internal;
+namespace NQRackers.Capturing.Internal;
 
 internal static class NativeMethods_V4L2
 {

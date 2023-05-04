@@ -7,7 +7,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-using FlashCap.Internal;
+using NQRackers.Capturing.Internal;
 using System;
 using System.Diagnostics;
 using System.Runtime.CompilerServices;
@@ -15,10 +15,10 @@ using System.Runtime.InteropServices;
 using System.Threading;
 using System.Threading.Tasks;
 
-using static FlashCap.Internal.NativeMethods_V4L2;
-using static FlashCap.Internal.V4L2.NativeMethods_V4L2_Interop;
+using static NQRackers.Capturing.Internal.NativeMethods_V4L2;
+using static NQRackers.Capturing.Internal.V4L2.NativeMethods_V4L2_Interop;
 
-namespace FlashCap.Devices;
+namespace NQRackers.Capturing.Devices;
 
 public sealed class V4L2Device : CaptureDevice
 {

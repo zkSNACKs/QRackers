@@ -11,7 +11,7 @@ using System;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace FlashCap;
+namespace NQRackers.Capturing;
 
 public sealed class ObservableCaptureDevice :
     IObservable<PixelBufferScope>, IDisposable

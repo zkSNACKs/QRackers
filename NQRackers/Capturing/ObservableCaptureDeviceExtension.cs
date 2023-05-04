@@ -12,7 +12,7 @@ using System.Runtime.CompilerServices;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace FlashCap;
+namespace NQRackers.Capturing;
 
 public static class ObservableCaptureDeviceExtension
 {

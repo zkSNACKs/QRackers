@@ -7,13 +7,13 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-using FlashCap.Internal;
+using NQRackers.Capturing.Internal;
 using System;
 using System.Runtime.CompilerServices;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace FlashCap;
+namespace NQRackers.Capturing;
 
 public abstract class CaptureDevice :
 #if NETCOREAPP3_0_OR_GREATER || NETSTANDARD2_1

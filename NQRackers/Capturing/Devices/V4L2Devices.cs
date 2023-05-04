@@ -8,17 +8,17 @@
 ////////////////////////////////////////////////////////////////////////////
 
 using System;
-using FlashCap.Internal;
-using FlashCap.Utilities;
+using NQRackers.Capturing.Internal;
+using NQRackers.Capturing.Utilities;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
 
-using static FlashCap.Internal.NativeMethods_V4L2;
-using static FlashCap.Internal.V4L2.NativeMethods_V4L2_Interop;
+using static NQRackers.Capturing.Internal.NativeMethods_V4L2;
+using static NQRackers.Capturing.Internal.V4L2.NativeMethods_V4L2_Interop;
 
-namespace FlashCap.Devices;
+namespace NQRackers.Capturing.Devices;
 
 public sealed class V4L2Devices : CaptureDevices
 {

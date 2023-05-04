@@ -7,10 +7,10 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-using FlashCap.Utilities;
+using NQRackers.Capturing.Utilities;
 using System;
 
-namespace FlashCap;
+namespace NQRackers.Capturing;
 
 public enum PixelFormats
 {

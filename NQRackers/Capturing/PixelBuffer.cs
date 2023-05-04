@@ -7,11 +7,11 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-using FlashCap.Internal;
+using NQRackers.Capturing.Internal;
 using System;
 using System.Diagnostics;
 
-namespace FlashCap;
+namespace NQRackers.Capturing;
 
 public sealed class PixelBuffer
 {
