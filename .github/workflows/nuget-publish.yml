@@ -32,4 +32,4 @@ jobs:
       run: dotnet pack --no-restore --no-build --configuration Release -p:PackageVersion=${{ steps.version.outputs.version-without-v }}
 
     - name: 'Push package'
-      run: dotnet nuget push **.nupkg **.snupkg --api-key ${{ secrets.NUGET_AUTH_TOKEN }} --source https://api.nuget.org/v3/index.json
+      run: dotnet nuget push **.nupkg **.snupkg --api-key ${{ secrets.NUGET_KEY }} --source https://api.nuget.org/v3/index.json
