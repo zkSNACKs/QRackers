@@ -1,6 +1,5 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <Version>0.1</Version>
     <Authors>zkSNACKs Ltd</Authors>
     <Company>zkSNACKs Ltd</Company>
     <PackageProjectUrl>https://github.com/zkSNACKs/QRackers/</PackageProjectUrl>
